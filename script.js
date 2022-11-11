@@ -1,5 +1,6 @@
-let nameUser = prompt('Enter your name');
+/*let nameUser = prompt('Enter your name');
 
-let namePos = document.querySelector(".name_h1");
+let namePos = document.querySelector(".name-h1");
 
-namePos.textContent = (nameUser == '') ? 'User' : nameUser;
+namePos.textContent = (nameUser == '') ? 'User' : nameUser;*/
+
